@@ -51,3 +51,10 @@ footer a:hover{color:var(--gold)}
 .artikel p,.artikel li{margin-bottom:10px}
 .artikel .cta{background:#fff;border:1px solid var(--linie);border-left:5px solid var(--gold);border-radius:8px;padding:16px 18px;margin:22px 0;font-family:Arial,sans-serif}
 @media(max-width:640px){.hero h1{font-size:1.8rem}nav a{margin-left:12px}}
+
+/* Ratgeber-Liste auf der Startseite */
+.ratgeber-liste{list-style:none;padding:0;margin:0;display:grid;gap:14px}
+.ratgeber-liste a{display:block;background:#fff;border:1px solid var(--linie);border-left:5px solid var(--blue);border-radius:8px;padding:16px 18px;text-decoration:none;color:#1F3B57}
+.ratgeber-liste a:hover{border-left-color:var(--gold)}
+.ratgeber-liste b{display:block;margin-bottom:4px}
+.ratgeber-liste span{color:var(--grau);font-size:.95rem;font-family:Arial,sans-serif}

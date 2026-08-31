@@ -1,0 +1,42 @@
+titel: Handmade-Preise kalkulieren: die Formel für deinen Verkaufspreis
+beschreibung: Materialkosten, Arbeitszeit, Gebühren, Gewinn — so berechnest du den Mindestpreis für dein Handmade-Produkt. Mit Beispielrechnung und Gratis-Kalkulator.
+stand: August 2026
+
+„Das kauft doch keiner für 30 €“ — und am Monatsende bleibt trotzdem nichts übrig. Die meisten Handmade-Verkäufer setzen ihre Preise nach Gefühl oder nach der Konkurrenz. Beides führt fast immer zu Preisen, bei denen du draufzahlst. Die Lösung ist eine einfache Formel.
+
+## Die Formel
+
+Verkaufspreis = (Material + Arbeitszeit × Stundenlohn + Gewinn) ÷ (1 − Gebührenanteil)
+
+Vier Zutaten, ein Ergebnis. Gehen wir sie einzeln durch.
+
+## Schritt 1: Materialkosten ehrlich erfassen
+
+Alles, was im Produkt steckt und mit ihm den Tisch verlässt: Rohmaterial inklusive Verschnitt, Kleinteile, Etiketten, Verpackung, Versandkarton. Wer nur den Stoff rechnet und Garn, Vlieseline und Label vergisst, kalkuliert sich systematisch arm.
+
+## Schritt 2: Arbeitszeit mal Stundenlohn — der vergessene Posten
+
+Deine Zeit ist der größte Kostenblock, und genau der wird am häufigsten weggelassen. Stoppe die echte Zeit pro Stück (inklusive Zuschnitt und Verpacken) und setze einen Stundenlohn an. Untergrenze zur Orientierung: der gesetzliche Mindestlohn von 13,90 € (Stand 2026) — angestellt dürftest du für weniger gar nicht arbeiten.
+
+## Schritt 3: Gebühren teilen, nicht addieren
+
+Plattform-Gebühren gehen vom Verkaufspreis ab — deshalb musst du durch (1 − Gebührenanteil) teilen, statt sie aufzuschlagen. Bei Etsy liegen die realen Gesamtgebühren je nach Setup bei etwa 14–17 %, im eigenen Shop bei 2–5 %. Wer 15 % einfach addiert statt zu teilen, verschenkt bei jedem Verkauf Marge.
+
+## Schritt 4: Gewinn einplanen
+
+Gewinn ist das, was nach Material und nach deiner bezahlten Arbeitszeit übrig bleibt — für neue Werkzeuge, Fehlkäufe und Wachstum. Wer 0 € Gewinn ansetzt, betreibt Lohnarbeit, kein Business.
+
+## Beispielrechnung
+
+- Material: 6,00 €
+- Arbeitszeit: 45 Minuten × 15 €/h = 11,25 €
+- Selbstkosten: 17,25 €
+- Wunsch-Gewinn: 5,00 € → nötiger Erlös 22,25 €
+- Etsy-Gebühren 15 %: 22,25 € ÷ 0,85 = 26,18 €
+- Verkaufspreis, psychologisch gerundet: 26,90 €
+
+Fühlt sich der Preis zu hoch an? Dann lautet die Frage nicht „billiger“, sondern: Zeit pro Stück senken, Material günstiger einkaufen — oder ein Produkt bauen, das diesen Preis wert ist.
+
+CTA: Der Handmade-Preiskalkulator rechnet Stückliste, Preisliste und Marge für dein ganzes Sortiment. https://www.etsy.com/de/listing/4538811928/
+
+CTA: Erst einmal testen? Der kostenlose Preis-Check rechnet Mindestpreis und deinen echten Stundenlohn in 60 Sekunden. https://c924a1e3.sibforms.com/serve/MUIFAG7aKlemRg8q1mZoeCTHY4j8Dah89dcXMyLPhuqpQar_141PYSEaUhi_TD7HwqW2PY4ao_QZW0mJcqtXASud0KDPGL1qnWas_PN2HSFO1_E8b6uVO4irFyOF4Sks4Th0B3NUIdfnhw_xEaurowF0Rh5FWyGQitiBtNPodbYBuvn_UYjyU20NjP5IN3vKim7zpXOn17hi9_pcZA==

@@ -1,0 +1,46 @@
+titel: Nebenkostenabrechnung selbst erstellen — Schritt für Schritt (2026)
+beschreibung: Anleitung für private Vermieter: 12-Monats-Frist, umlagefähige Kosten, Umlageschlüssel, Heizkosten nach HeizkostenV und CO2-Aufteilung. Stand: August 2026.
+stand: August 2026
+
+Als privater Vermieter musst du die Betriebskosten einmal im Jahr abrechnen — und dabei gelten harte Fristen und klare Regeln, welche Kosten du überhaupt umlegen darfst. Diese Anleitung führt dich in sechs Schritten durch die Abrechnung, so wie sie auch eine Hausverwaltung aufbauen würde.
+
+## Schritt 1: Die 12-Monats-Frist prüfen
+
+Die Abrechnung muss dem Mieter spätestens 12 Monate nach Ende des Abrechnungszeitraums zugehen (§ 556 Abs. 3 BGB). Beispiel: Abrechnungszeitraum 01.01.–31.12.2025 → die Abrechnung muss bis zum 31.12.2026 im Briefkasten des Mieters sein. Es zählt der Zugang, nicht die Absendung.
+
+- Frist versäumt: Nachforderungen sind ausgeschlossen (außer du hast die Verspätung nicht zu vertreten)
+- Ein Guthaben des Mieters bleibt trotzdem geschuldet — auch nach Fristablauf
+- Der Mieter kann seinerseits bis 12 Monate nach Zugang der Abrechnung Einwendungen erheben
+- Nachforderungen verjähren in 3 Jahren ab Ende des Jahres, in dem sie fällig wurden (§§ 195, 199 BGB)
+
+## Schritt 2: Umlagefähige Kosten sammeln
+
+Umlegen darfst du nur die 17 Betriebskostenarten aus § 2 BetrKV — etwa Grundsteuer, Wasser, Müllabfuhr, Gebäudereinigung, Gartenpflege, Versicherungen und den Hauswart. Nicht umlagefähig sind dagegen (§ 1 Abs. 2 BetrKV):
+
+- Verwaltungskosten — auch dein eigener Verwaltungsaufwand
+- Instandhaltung, Instandsetzung und Reparaturen
+- Instandhaltungsrücklage
+- Bank- und Kontoführungsgebühren
+- Mietausfallwagnis
+
+## Schritt 3: Umlageschlüssel festlegen
+
+Steht im Mietvertrag nichts, wird nach Wohnfläche verteilt (§ 556a Abs. 1 BGB); verbrauchsabhängig erfasste Kosten wie Wasser nach Verbrauch. Bei einem Mieterwechsel zählen die Nutzungstage — taggenau. Wichtig: Der Anteil leerstehender Wohnungen bleibt beim Vermieter und darf nicht auf die übrigen Mieter verteilt werden.
+
+## Schritt 4: Heizkosten nach Heizkostenverordnung
+
+Heiz- und Warmwasserkosten müssen zu 50–70 % nach erfasstem Verbrauch abgerechnet werden, der Rest nach Wohnfläche (§§ 7, 8 HeizkostenV). Rechnest du nicht verbrauchsabhängig ab, darf der Mieter seinen Anteil um 15 % kürzen (§ 12 HeizkostenV); je weitere 3 % kommen bei fehlender fernablesbarer Messtechnik bzw. fehlender unterjähriger Verbrauchsinformation hinzu.
+
+## Schritt 5: CO2-Kosten aufteilen
+
+Seit 2023 Pflicht bei fossiler Heizung: Das CO2KostAufG teilt die CO2-Kosten nach einem 10-Stufen-Modell zwischen Mieter und Vermieter auf. Je schlechter der CO2-Ausstoß des Gebäudes (kg CO2 pro m² und Jahr), desto höher der Vermieteranteil — von 0 % bei sehr effizienten Gebäuden bis 95 % bei sehr ineffizienten. Der CO2-Preis liegt 2026 bei 55–65 € pro Tonne; ab 2027 gilt der europäische Emissionshandel (ETS 2).
+
+CTA: Die Excel-Vorlage Nebenkostenabrechnung rechnet Umlageschlüssel, Heizkosten und CO2-Aufteilung automatisch — inklusive Fristen-Ampel. https://www.etsy.com/de/listing/4540124825/
+
+## Schritt 6: Abrechnung erstellen und zustellen
+
+Die fertige Abrechnung braucht: Abrechnungszeitraum, Gesamtkosten je Kostenart, Umlageschlüssel, Anteil des Mieters und die geleisteten Vorauszahlungen. Daraus ergibt sich Nachzahlung oder Guthaben. Stelle die Abrechnung nachweisbar vor Fristablauf zu und notiere dir die Einwendungsfrist des Mieters.
+
+CTA: Nur die Termine im Griff behalten? Für den Anfang reicht die Fristen-Checkliste mit Ampel-Rechner. https://www.etsy.com/de/listing/4544757890/
+
+Diese Anleitung ersetzt keine Rechts- oder Steuerberatung. Alle Angaben ohne Gewähr — maßgeblich sind dein Mietvertrag und die geltenden Gesetze.

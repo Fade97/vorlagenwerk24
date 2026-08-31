@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
-"""Baut die generierten Teile der Website: sitemap.xml und Ratgeber-Seiten.
+"""Baut die generierten Teile der Website: Ratgeber-Seiten, Ratgeber-Liste auf der
+Startseite und sitemap.xml.
 
-Ratgeber-Workflow (vorbereitet für die Nischen-Ratgeber):
+Ratgeber-Workflow:
   1. Artikel als Markdown-ähnliche Textdatei in ratgeber/quellen/<slug>.txt
      (Format siehe ratgeber/quellen/BEISPIEL.txt: Kopfzeilen + Absätze).
-  2. python build_site.py  ->  ratgeber/<slug>.html aus TEMPLATE + sitemap.xml.
+  2. python build_site.py  ->  ratgeber/<slug>.html aus TEMPLATE + Liste auf
+     index.html (zwischen den RATGEBER-Markern) + sitemap.xml.
   3. Committen und pushen — GitHub Pages liefert automatisch aus.
 
 Bewusst ohne Jekyll/Framework: eine Python-Datei, volle Kontrolle, kein Build-Stack.
@@ -22,6 +24,7 @@ TEMPLATE = (HIER / "ratgeber" / "TEMPLATE.html").read_text(encoding="utf-8")
 QUELLEN = HIER / "ratgeber" / "quellen"
 
 def artikel_bauen():
+    """Baut ratgeber/<slug>.html; liefert [(pfad, titel, beschreibung), ...]."""
     seiten = []
     for q in sorted(QUELLEN.glob("*.txt")):
         if q.stem.startswith("BEISPIEL"):
@@ -48,13 +51,29 @@ def artikel_bauen():
             seite = seite.replace(k, v if k == "{{INHALT}}" else html.escape(v) if k in ("{{TITEL}}", "{{BESCHREIBUNG}}") else v)
         ziel = HIER / "ratgeber" / f"{q.stem}.html"
         ziel.write_text(seite, encoding="utf-8")
-        seiten.append(f"ratgeber/{q.stem}.html")
+        seiten.append((f"ratgeber/{q.stem}.html", meta["titel"], meta["beschreibung"]))
         print("gebaut:", ziel.name)
     return seiten
 
+def index_liste(seiten):
+    """Schreibt die Ratgeber-Liste zwischen die Marker in index.html."""
+    idx = HIER / "index.html"
+    inhalt = idx.read_text(encoding="utf-8")
+    items = "\n".join(
+        f'      <li><a href="{pfad}"><b>{html.escape(titel)}</b>'
+        f"<span>{html.escape(beschr)}</span></a></li>"
+        for pfad, titel, beschr in seiten)
+    neu, n = re.subn(
+        r"(<!--RATGEBER:START-->).*?(<!--RATGEBER:END-->)",
+        lambda m: f"{m.group(1)}\n{items}\n      {m.group(2)}",
+        inhalt, flags=re.S)
+    assert n == 1, "RATGEBER-Marker nicht (eindeutig) in index.html gefunden"
+    idx.write_text(neu, encoding="utf-8")
+    print(f"index.html: {len(seiten)} Ratgeber-Einträge")
+
 def sitemap(seiten):
     heute = datetime.date.today().isoformat()
-    urls = ["", "impressum.html", "datenschutz.html"] + seiten
+    urls = ["", "impressum.html", "datenschutz.html"] + [s[0] for s in seiten]
     eintraege = "\n".join(
         f"  <url><loc>{BASE}/{u}</loc><lastmod>{heute}</lastmod></url>" for u in urls)
     (HIER / "sitemap.xml").write_text(
@@ -65,4 +84,6 @@ def sitemap(seiten):
 
 if __name__ == "__main__":
     QUELLEN.mkdir(parents=True, exist_ok=True)
-    sitemap(artikel_bauen())
+    seiten = artikel_bauen()
+    index_liste(seiten)
+    sitemap(seiten)
