@@ -1,0 +1,14 @@
+titel: Nebenkostenabrechnung selbst erstellen — Schritt für Schritt
+beschreibung: Anleitung für private Vermieter: Fristen, Umlageschlüssel, CO2-Aufteilung — mit kostenloser Checkliste.
+stand: September 2026
+
+Einleitungsabsatz: das Problem in zwei Sätzen, dann das Versprechen der Anleitung.
+
+## Schritt 1: Die Frist kennen
+
+Absatztext. Jeder Leerzeilen-Block wird ein Absatz.
+
+- Listenpunkt eins
+- Listenpunkt zwei
+
+CTA: Die passende Excel-Vorlage rechnet das alles automatisch. https://www.etsy.com/de/listing/4540124825/

@@ -1,0 +1,4 @@
+{
+  "base_url": "https://fade97.github.io/vorlagenwerk24",
+  "_hinweis": "Bei Umzug auf eigene Domain: base_url ändern, build_site.py laufen lassen (schreibt sitemap.xml + canonical-Hinweis), CNAME-Datei anlegen."
+}

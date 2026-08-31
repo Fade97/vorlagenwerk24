@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fade97.github.io/vorlagenwerk24/sitemap.xml
