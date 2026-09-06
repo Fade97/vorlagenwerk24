@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Notenliste in Excel: gewichtete Noten und Zeugnisnote richtig berechnen — VorlagenWerk24</title>
+<meta name="description" content="Klassenarbeiten und mündliche Noten gewichten, Punkte in Noten umrechnen, Tendenz und Rundung — so baust du eine Notenliste in Excel, die bei der Zeugniskonferenz stimmt.">
+<link rel="canonical" href="https://fade97.github.io/vorlagenwerk24/ratgeber/notenliste-excel-gewichtet.html">
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header><div class="wrap"><div class="logo"><a href="../index.html" style="color:#fff;text-decoration:none">Vorlagen<span>Werk24</span></a></div>
+<nav><a href="../index.html#vorlagen">Vorlagen</a><a href="https://www.etsy.com/de/shop/VorlagenWerk24">Etsy-Shop</a></nav></div></header>
+<div class="artikel">
+<h1>Notenliste in Excel: gewichtete Noten und Zeugnisnote richtig berechnen</h1>
+<p class="meta">Stand: September 2026 · VorlagenWerk24-Ratgeber · keine Steuer- oder Rechtsberatung</p>
+<p>Vier Klassenarbeiten, zwei Tests, Mitarbeit, alles unterschiedlich gewichtet — für 28 Kinder. Einmal am Taschenrechner verrechnet, und in der Zeugniskonferenz stimmt eine Note nicht. Eine Notenliste in Excel nimmt dir das Rechnen ab, wenn drei Dinge sauber gelöst sind: Gewichtung, fehlende Noten und Rundung.</p>
+<h2>Schritt 1: Gewichtung mit SUMMENPRODUKT statt MITTELWERT</h2>
+<p>MITTELWERT zählt jede Note gleich — eine Klassenarbeit wiegt dann so viel wie ein Vokabeltest. Richtig ist das gewichtete Mittel: jede Note mal ihr Gewicht, Summe geteilt durch die Summe der Gewichte.</p>
+<ul><li>Zeile mit Gewichten über den Notenspalten (z. B. Klassenarbeit 2, Test 1)</li><li>Formel: =SUMMENPRODUKT(Noten; Gewichte) / SUMME(Gewichte)</li><li>Schriftlich und mündlich getrennt rechnen, dann nach Schulregel zusammenführen (50/50, 60/40 — das legt deine Schule oder das Land fest)</li></ul>
+<h2>Schritt 2: Fehlende Noten dürfen nicht als 0 zählen</h2>
+<p>Das ist der häufigste Fehler in selbstgebauten Listen. Ein Kind hat eine Arbeit nachgeschrieben oder war krank, die Zelle bleibt leer — und Excel rechnet die Leerstelle als 0, was den Schnitt nach oben verfälscht, oder du trägst 6 ein, was ihn ruiniert. Die Gewichte-Summe muss nur die Gewichte zählen, zu denen auch eine Note steht. Mit SUMMENPRODUKT und einer Bedingung wie (Noten&lt;&gt;&quot;&quot;) klappt das ohne Hilfsspalten. Die Liste sollte dann ehrlich sagen: „noch keine Note“ oder „nur mündlich“, statt eine falsche Zahl zu zeigen.</p>
+<h2>Schritt 3: Punkte in Noten umrechnen</h2>
+<p>Bei Klassenarbeiten trägst du meist Punkte ein, nicht Noten. Ein Notenschlüssel übersetzt Prozent in Note — verbreitet ist der IHK-Schlüssel: ab 92 % Note 1, ab 81 % Note 2, ab 67 % Note 3, ab 50 % Note 4, ab 30 % Note 5. Mit einer kleinen Schlüsseltabelle und SVERWEIS oder XVERWEIS rechnet Excel die Note aus erreichten und maximalen Punkten. Wichtig: Der Schlüssel muss aufsteigend sortiert sein, sonst greift SVERWEIS daneben. Und der Schlüssel ist Einstellungssache — Schulen und Fächer nutzen unterschiedliche Grenzen.</p>
+<h2>Schritt 4: Rundung und Tendenz</h2>
+<p>Aus 2,26 wird auf dem Zeugnis eine 2. Aber ab wann wird aus der 2 eine 3? Bei 2,50 oder erst ab 2,51? Beides kommt vor, und es macht bei jeder Klasse einen Unterschied. Lege die Schwelle als einzelne Zelle fest, statt sie in die Formel zu tippen — dann änderst du sie an einer Stelle. Für die Konferenz hilft die Tendenz: 2,26 ist eine 2−, 2,73 eine 3+. Wer sie neben der Zeugnisnote sieht, erkennt Grenzfälle sofort.</p>
+<h2>Schritt 5: Halbjahr und Schuljahr</h2>
+<p>Jede Leistung bekommt eine Spalte „Halbjahr“ (1 oder 2). Ein Schalter oben im Blatt legt fest, ob gerade das erste Halbjahr, das zweite oder das ganze Schuljahr gerechnet wird; die Formeln filtern über SUMMENPRODUKT mit einer weiteren Bedingung. So bleibt es eine Datei je Klasse und Fach, statt drei.</p>
+<h2>Was noch dazugehört</h2>
+<p>Ein Klassenschnitt und eine Notenverteilung (wie viele Einsen, Zweien, …) zeigen dir, ob eine Arbeit zu schwer war. Ein Farbleitsystem — Gelb für Eingabe, Schwarz für Formeln — verhindert, dass jemand versehentlich in eine Formelzelle tippt. Und die Datei gehört nicht in die Cloud eines Drittanbieters: Schülernoten sind personenbezogene Daten, lokal speichern und Passwort auf die Datei.</p>
+<div class="cta">Die Notenliste für Lehrkräfte hat all das fertig gebaut: bis zu 35 Kinder, 8 Klassenarbeiten, 6 mündliche Leistungen, Notenschlüssel und Rundung einstellbar, mit Beispielklasse zum Ausprobieren. <a href="https://www.etsy.com/de/listing/4558567855/">Zur Vorlage →</a></div>
+</div>
+<footer><div class="wrap"><a href="../index.html">Startseite</a><a href="../impressum.html">Impressum</a><a href="../datenschutz.html">Datenschutz</a></div></footer>
+</body>
+</html>

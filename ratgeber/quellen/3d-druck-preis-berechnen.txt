@@ -1,0 +1,52 @@
+titel: 3D-Druck Preis berechnen: was ein Druck wirklich kostet
+beschreibung: Filament allein ist nicht der Preis. Strom, Drucker-Abschreibung, Fehldrucke, Nachbearbeitung und Gebühren — die Formel für den Verkaufspreis von 3D-Drucken mit Beispielrechnung.
+stand: September 2026
+
+Der Slicer sagt: 84 g Filament, 5 Stunden 37 Minuten. Das Filament kostet 2,60 €. Also 8 € Verkaufspreis? Wer so rechnet, bezahlt seinen Drucker, seinen Strom und seine eigene Arbeitszeit aus der eigenen Tasche. Ein 3D-Druck hat fünf Kostenblöcke, und der Slicer zeigt nur einen davon.
+
+## Die Formel
+
+Verkaufspreis = (Material + Strom + Drucker-Umlage + Arbeitszeit) × (1 + Fehldruck-Quote) + Gewinn, geteilt durch (1 − Gebührenanteil)
+
+Klingt nach viel, sind aber fünf einfache Zahlen. Der Reihe nach.
+
+## Schritt 1: Material aus dem Slicer
+
+Gramm aus dem Slicer mal Preis pro Gramm. Eine 1-kg-Rolle PLA für 22 € macht 2,2 Cent je Gramm, PETG und TPU liegen höher, Resin rechnet in Millilitern. Supportmaterial und Purge-Linien gehören dazu — der Slicer zählt sie meist schon mit.
+
+## Schritt 2: Strom ist nicht null
+
+Ein Drucker mit beheiztem Bett zieht im Schnitt 100 bis 150 Watt. Bei 5,6 Stunden und 0,35 €/kWh sind das rund 0,25 € — pro Druck wenig, über hundert Drucke im Jahr ein Wochenendeinkauf. Wer es weglässt, verschenkt es.
+
+## Schritt 3: Drucker-Umlage — der Posten, den alle vergessen
+
+Dein Drucker hat 400 oder 1.200 € gekostet und hält nicht ewig: Nozzles, Bett-Folien, Lüfter, Extruder-Zahnräder nutzen ab. Verteile Anschaffung plus erwartete Ersatzteile auf die Zahl der Projekte, die du realistisch damit druckst. 600 € Drucker auf 400 Drucke sind 1,50 € je Druck. Erst so zahlt sich die Maschine von selbst ab, statt aus deinem Gewinn.
+
+## Schritt 4: Druckzeit ist nicht Arbeitszeit
+
+Die 5 Stunden 37 Minuten druckt die Maschine — dafür zahlst du Strom, nicht Stundenlohn. Deine Zeit steckt woanders: Modell vorbereiten, Bett reinigen, Support entfernen, Schleifen, Verpacken. Stoppe diese Minuten ehrlich und setze einen Stundenlohn an; unter dem gesetzlichen Mindestlohn von 13,90 € (Stand 2026) solltest du dich nicht selbst bezahlen.
+
+## Schritt 5: Fehldrucke einpreisen
+
+Jeder zehnte Druck wird zu Spaghetti, löst sich vom Bett oder scheitert am Test. Das Material und der Strom dafür sind weg. Eine Fehldruck-Quote von 10 % als Aufschlag auf die Selbstkosten holt sie zurück — erfolgreiche Drucke bezahlen die gescheiterten mit.
+
+## Beispielrechnung: Deko-Vase
+
+- Material: 84 g PLA × 0,022 € = 1,85 €
+- Strom: 5,6 h × 0,12 kW × 0,35 €/kWh = 0,24 €
+- Drucker-Umlage: 1,50 €
+- Arbeitszeit: 20 Minuten × 15 €/h = 5,00 €
+- Selbstkosten: 8,59 €, mit 10 % Fehldruck-Quote 9,45 €
+- Wunsch-Gewinn: 4,00 € → nötiger Erlös 13,45 €
+- Etsy-Gebühren 15 %: 13,45 € ÷ 0,85 = 15,82 €
+- Verkaufspreis, kaufmännisch gerundet: 15,90 €
+
+Aus „8 €“ wurden 15,90 € — und nichts davon ist Fantasie. Wer eine Serie für den Weihnachtsmarkt plant, rechnet dieselbe Formel mal Stückzahl und prüft zusätzlich die Gesamt-Druckzeit: 40 Vasen sind 225 Stunden Drucker-Laufzeit, das sind über neun Tage rund um die Uhr.
+
+## Noch zwei Dinge, die kein Rechner löst
+
+Kommerzielle Drucke brauchen eine STL-Lizenz, die den Verkauf erlaubt — viele Modelle auf Printables und Thingiverse sind nur für den Privatgebrauch freigegeben. Und wer an Verbraucher verkauft, unterliegt seit Dezember 2024 der Produktsicherheitsverordnung (GPSR); bei Spielzeug gelten zusätzliche Regeln.
+
+CTA: Der 3D-Druck-Kalkulator rechnet Strom, Drucker-Umlage, Fehldruck-Quote und Stundenlohn für 30 Modelle und zeigt im Diagramm, wo dein Geld steckt. https://www.etsy.com/de/listing/4548574589/
+
+CTA: Erst einmal testen? Der kostenlose Preis-Check rechnet Mindestpreis und deinen echten Stundenlohn in 60 Sekunden. https://c924a1e3.sibforms.com/serve/MUIFAG7aKlemRg8q1mZoeCTHY4j8Dah89dcXMyLPhuqpQar_141PYSEaUhi_TD7HwqW2PY4ao_QZW0mJcqtXASud0KDPGL1qnWas_PN2HSFO1_E8b6uVO4irFyOF4Sks4Th0B3NUIdfnhw_xEaurowF0Rh5FWyGQitiBtNPodbYBuvn_UYjyU20NjP5IN3vKim7zpXOn17hi9_pcZA==
