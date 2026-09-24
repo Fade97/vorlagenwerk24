@@ -1,0 +1,54 @@
+titel: Etsy-Gebühren berechnen: Was bei einem Verkauf in Deutschland wirklich übrig bleibt
+beschreibung: Transaktionsgebühr, Zahlungsabwicklung, Einstellgebühr, Offsite Ads und Umsatzsteuer auf Gebühren — so rechnest du Etsy-Gebühren als deutscher Verkäufer richtig aus, mit Beispielrechnung und Zielpreis-Formel.
+stand: September 2026
+
+Etsy zeigt dir den Verkaufspreis groß an, die Gebühren kommen verteilt über fünf Posten und landen erst in der Monatsabrechnung. Wer nur „rund 10 %“ im Kopf hat, liegt als deutscher Kleinunternehmer schnell ein paar Prozentpunkte daneben — und bei Offsite Ads deutlich mehr. So rechnest du jede Gebühr einzeln aus und weißt vor dem Einstellen, was pro Bestellung übrig bleibt.
+
+## Schritt 1: Die Gebührenarten kennen
+
+Pro Bestellung fallen bei Etsy Payments diese Posten an (Sätze Stand September 2026, bei Änderungen in der Etsy-Gebührenordnung prüfen):
+
+- Transaktionsgebühr: 6,5 % auf Artikelpreis plus Versand
+- Zahlungsabwicklung: 4 % plus 0,30 € auf den Gesamtbetrag
+- Einstellgebühr: 0,20 US-Dollar pro verkauftem Stück, bei zwei Stück also zweimal
+- Offsite Ads: 15 % oder 12 % auf Bestellungen, die Etsy einer externen Anzeige zuordnet, höchstens 100 US-Dollar je Bestellung
+- Umsatzsteuer auf alle Gebühren: 19 %, wenn du Kleinunternehmer bist
+
+Die Einstellgebühr wird in Dollar berechnet, du musst sie also mit dem aktuellen Kurs umrechnen. Dazu kommen Posten, die nicht an einer Bestellung hängen: Verlängerungen ohne Verkauf und dein Budget für Etsy Ads. Je nach Land und Zeitraum kann außerdem ein zusätzlicher Regulierungsaufschlag auf der Abrechnung stehen. Einen festen Satz dafür nennen wir hier bewusst nicht — schau in deine eigene Monatsabrechnung, ob und in welcher Höhe er bei dir auftaucht, und rechne ihn dann als weiteren Prozentsatz mit ein.
+
+## Schritt 2: Umsatzsteuer auf Gebühren nicht vergessen
+
+Das ist der Posten, den die meisten Gebührenrechner weglassen. Für die Etsy-Gebühren gilt das Reverse-Charge-Verfahren: Du schuldest dem Finanzamt 19 % Umsatzsteuer auf jede Etsy-Gebühr. Als regelbesteuerter Händler holst du sie dir als Vorsteuer zurück. Als Kleinunternehmer nach § 19 UStG geht das nicht — die 19 % sind für dich echte Kosten. Aus 10,5 % prozentualen Gebühren werden so rund 12,5 %.
+
+## Schritt 3: Ein Verkauf mit echten Zahlen
+
+Beispiel: Kerze für 24,90 €, Versand 4,90 €, Kleinunternehmer, Dollarkurs 0,92 €. Der Bestellwert liegt bei 29,80 €.
+
+- Transaktionsgebühr: 6,5 % von 29,80 € = 1,94 €
+- Zahlungsabwicklung: 4 % von 29,80 € + 0,30 € = 1,49 €
+- Einstellgebühr: 0,20 $ × 0,92 = 0,18 €
+- Umsatzsteuer: 19 % von 3,61 € = 0,69 €
+- Gebühren gesamt: 4,30 €, also 14,4 % vom Bestellwert
+
+Ziehst du 6,50 € Material und 4,90 € real bezahltes Porto ab, bleiben 14,10 €. Kommt dieselbe Bestellung über Offsite Ads mit 15 %, fallen weitere 4,47 € plus 0,85 € Umsatzsteuer an. Die Gebühren steigen auf 9,62 €, übrig bleiben nur noch 8,78 €. Der Offsite-Satz sinkt auf 12 % und wird zur Pflicht, sobald dein Shop 10.000 US-Dollar Umsatz in 365 Tagen erreicht; darunter kannst du Offsite Ads abschalten.
+
+## Schritt 4: Die typischen Rechenfehler
+
+- Gebühren nur auf den Artikelpreis rechnen: Transaktions- und Zahlungsgebühr gehen auch auf den Versand. Wer 4,90 € Versand nimmt, zahlt darauf mit.
+- Rabatte falsch einschätzen: Etsy rechnet die Gebühren auf den rabattierten Preis. Das hilft aber wenig. Mit 20 % Rabatt auf die Kerze (4,98 €) sparst du nur 0,62 € Gebühren, dein Rest fällt von 14,10 € auf 9,74 € — fast ein Drittel weniger.
+- Die Einstellgebühr pro Listing statt pro Stück rechnen: Bei Mehrfachkäufen fällt sie für jedes Stück an.
+- Die § 19-Falle: Als Kleinunternehmer ist die Umsatzsteuer auf Gebühren ein Kostenfaktor, keine durchlaufende Summe. Und für die Umsatzgrenze zählt dein gesamter Umsatz, nicht dein Gewinn. Die aktuellen Grenzwerte prüfst du beim Finanzamt oder mit deiner Steuerberatung und behältst deinen Jahresumsatz laufend im Blick.
+
+## Schritt 5: Zielpreis rückwärts rechnen
+
+Statt zu schätzen, rechne vom gewünschten Gewinn zurück. Prozentuale Gebühren gehen vom Preis ab, deshalb teilst du, statt aufzuschlagen:
+
+Bestellwert = (Zielgewinn + Material + Porto + Fixgebühren) ÷ (1 − prozentuale Gebühren)
+
+Für Kleinunternehmer ohne Offsite Ads sind die prozentualen Gebühren (6,5 % + 4 %) × 1,19 = 12,5 %, die Fixgebühren (0,30 € + 0,18 €) × 1,19 = 0,58 €. Bei 10 € Zielgewinn, 6,50 € Material und 4,90 € Porto: (10 + 6,50 + 4,90 + 0,58) ÷ 0,875 = 25,11 €. Abzüglich 4,90 € Versand muss der Artikel mindestens 20,21 € kosten. Rechnest du Offsite Ads mit 15 % ein, steigt der nötige Bestellwert auf 31,55 €.
+
+## Was noch dazugehört
+
+Erstattest du über den Shop-Manager, schreibt Etsy Transaktions- und Zahlungsgebühr anteilig gut, die Einstellgebühr nur bei Stornierung, die Offsite-Gebühr gar nicht. Etsy rundet die Umsatzsteuer pro Gebührenzeile, deshalb weicht deine eigene Rechnung um ein paar Cent ab — das ist normal. Und ändert Etsy einen Satz, sollte er an genau einer Stelle stehen, nicht in zwanzig Formeln.
+
+CTA: Das Etsy Gewinn-Cockpit rechnet all diese Gebühren pro Bestellung automatisch aus — mit Umsatzsteuer für Kleinunternehmer, Offsite Ads, Rabatten und Monatsübersicht. https://www.etsy.com/de/listing/4538759214/
