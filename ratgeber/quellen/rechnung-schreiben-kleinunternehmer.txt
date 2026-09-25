@@ -1,0 +1,66 @@
+titel: Rechnung schreiben als Kleinunternehmer: Pflichtangaben und Muster (§ 19 UStG)
+beschreibung: Welche Angaben eine Rechnung als Kleinunternehmer enthalten muss, welcher Satz zu § 19 UStG hinein gehört, mit ausgefülltem Beispiel und Checkliste.
+stand: September 2026
+
+Als Kleinunternehmer stellst du Rechnungen ohne Umsatzsteuer aus. Trotzdem gelten Formvorschriften: Fehlt eine Pflichtangabe, gibt es Rückfragen vom Kunden und im ungünstigen Fall Ärger mit dem Finanzamt. Dieser Ratgeber zeigt dir, was auf die Rechnung gehört, und rechnet ein Beispiel durch.
+
+## Was „Kleinunternehmer" bedeutet
+
+Nach § 19 UStG erhebst du keine Umsatzsteuer, wenn dein Umsatz im Vorjahr 25.000 € nicht überstiegen hat und im laufenden Jahr voraussichtlich 100.000 € nicht übersteigt. Maßgeblich ist der Umsatz, nicht der Gewinn. Du weist deshalb keine Umsatzsteuer aus und kannst im Gegenzug auch keine Vorsteuer ziehen.
+
+## Pflichtangaben auf der Rechnung
+
+Diese Angaben verlangt § 14 Abs. 4 UStG in Verbindung mit § 34a UStDV für Rechnungen über 250 €:
+
+- vollständiger Name und Anschrift von dir und deinem Kunden
+- deine Steuernummer (oder USt-IdNr., falls vorhanden)
+- Ausstellungsdatum der Rechnung
+- fortlaufende, einmalige Rechnungsnummer
+- Menge und Art der gelieferten Ware oder Umfang und Art der Leistung
+- Zeitpunkt der Lieferung oder Leistung (bzw. Leistungszeitraum)
+- Entgelt, also der Betrag, den der Kunde zahlt
+- Hinweis auf die Steuerbefreiung, z. B. „Gemäß § 19 UStG wird keine Umsatzsteuer berechnet."
+
+Für Kleinbeträge bis 250 € (§ 33 UStDV) reicht weniger: Name und Anschrift des Leistenden, Ausstellungsdatum, Art und Menge der Leistung, der Bruttobetrag und der Hinweis auf die Steuerbefreiung. Wer alles angibt, macht nichts falsch.
+
+## Was du nicht schreiben darfst
+
+Kein Umsatzsteuersatz, kein Steuerbetrag, keine Zeile „inkl. 19 % MwSt.". Wer Umsatzsteuer offen ausweist, schuldet sie nach § 14c UStG, auch wenn er Kleinunternehmer ist. Zeig deshalb nur den Endbetrag.
+
+## Beispiel: Rechnung einer Kerzenmanufaktur
+
+Ausgedachtes Beispiel mit Musterdaten:
+
+- Rechnungsnummer: RE-2026-014, Datum: 15.09.2026
+- Leistung: 12 Sojakerzen „Lavendel" à 14,00 € = 168,00 €
+- Lieferung: 12.09.2026
+- Verpackung und Versand: 6,90 €
+- Rechnungsbetrag: 174,90 €, zahlbar bis 29.09.2026 (14 Tage)
+- Hinweis: „Gemäß § 19 UStG wird keine Umsatzsteuer berechnet."
+
+Die Summe ist zugleich der Endbetrag: 168,00 € + 6,90 € = 174,90 €. Es gibt keine Netto-Brutto-Rechnung, weil keine Umsatzsteuer anfällt.
+
+## Rechnungsnummern und Aufbewahrung
+
+Vergib fortlaufende Nummern ohne Lücken, zum Beispiel mit Jahr als Präfix (RE-2026-001, RE-2026-002 ...). Rechnungen musst du nach den gesetzlichen Fristen aufbewahren, derzeit in der Regel 8 Jahre für Buchungsbelege. Prüfe die aktuellen Fristen bei deinem Steuerberater oder beim Finanzamt.
+
+## E-Rechnung: Was gilt für Kleinunternehmer?
+
+Die Pflicht zur E-Rechnung im B2B-Bereich betrifft die Ausstellung nicht, wenn du Kleinunternehmer bist. Empfangen musst du E-Rechnungen aber können, etwa per E-Mail-Postfach. Für Privatkunden ändert sich nichts.
+
+## Die 25.000-€-Grenze im Blick behalten
+
+Zähle laufend mit, was du im Jahr eingenommen hast. Bei Zahlungseingängen zählt der Zeitpunkt der Vereinnahmung. Eine einfache Tabelle mit Rechnungsliste, Zahlungsstatus und Jahressumme reicht dafür aus. Ab etwa 80 % der Grenze lohnt sich ein Blick auf die Planung.
+
+## Checkliste vor dem Versand
+
+- Sind Name und Anschrift von dir und dem Kunden vollständig?
+- Steht deine Steuernummer drauf?
+- Ist die Rechnungsnummer einmalig und fortlaufend?
+- Sind Leistung, Menge und Leistungsdatum genannt?
+- Steht der § 19-Hinweis drauf, und ist keine Umsatzsteuer ausgewiesen?
+- Sind Zahlungsziel und Bankverbindung angegeben?
+
+Hinweis: Dieser Ratgeber ist eine allgemeine Information, keine Steuer- oder Rechtsberatung. Stand: September 2026. Bei Zweifeln frag dein Finanzamt oder eine Steuerberatung.
+
+CTA: Das Rechnungstool für Kleinunternehmer in Excel, Google Sheets und LibreOffice baut die Rechnung mit § 19-Hinweis, prüft die Pflichtangaben live und führt die Rechnungsliste mit Mahn-Status. https://www.etsy.com/de/listing/4539481800/?utm_source=website&utm_medium=guide&utm_campaign=rechnung-kleinunternehmer
