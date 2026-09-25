@@ -1,0 +1,76 @@
+titel: Weihnachten planen: Budget, Geschenkeliste und Zeitplan für 2026
+beschreibung: So planst du Weihnachten rechtzeitig: Budget je Person berechnen, Geschenkeliste führen und den Zeitplan bis Heiligabend einhalten, mit Rechenbeispiel und Checkliste.
+stand: September 2026
+
+Im Januar kommt die Kreditkartenabrechnung, und plötzlich ist Weihnachten viel teurer gewesen als gedacht. Das passiert selten wegen eines großen Geschenks, sondern wegen vieler kleiner Posten, die nirgends zusammengezählt wurden. Mit einem festen Budget, einer Geschenkeliste und einem Zeitplan bleibt der Überblick erhalten. Dieser Ratgeber zeigt die drei Schritte und rechnet ein Beispiel durch.
+
+## Schritt 1: Gesamtbudget festlegen
+
+Leg zuerst fest, wie viel Weihnachten insgesamt kosten darf, bevor du das erste Geschenk kaufst. Ein guter Ausgangspunkt: Schau in den Kontoauszug oder in deine Notizen vom Vorjahr und nimm den Betrag als Vergleich. Wer sich für dieses Jahr weniger vornimmt, weiß wenigstens, woran er sich messen lässt.
+
+Zum Budget gehört mehr als die Geschenke:
+
+- Geschenke für alle Personen auf deiner Liste
+- Essen und Getränke für die Feiertage
+- Deko, Adventskalender, Karten und Geschenkpapier
+- Porto, wenn Pakete verschickt werden
+- ein Puffer für Spontankäufe und vergessene Personen
+
+## Schritt 2: Budget auf Personen verteilen
+
+Teile das Geschenkebudget auf die Personen auf. Sinnvoll ist eine Einteilung nach Gruppen: Partner, Kinder, Eltern, Schwiegereltern, Freunde, Kollegen. Innerhalb einer Gruppe gilt derselbe Betrag, das macht die Planung einfacher und vermeidet Vergleiche.
+
+## Rechenbeispiel: Familie mit zwei Kindern
+
+Ausgedachtes Beispiel mit Musterzahlen, Gesamtbudget 600 €:
+
+- Partner: 1 Person à 80 € = 80 €
+- Kinder: 2 Personen à 60 € = 120 €
+- Eltern: 2 Personen à 40 € = 80 €
+- Schwiegereltern: 2 Personen à 30 € = 60 €
+- Freundin: 1 Person à 25 € = 25 €
+- Wichtelgeschenk im Büro: 15 €
+- Geschenke gesamt: 380 €
+- Essen und Getränke: 120 €
+- Deko, Karten und Verpackung: 40 €
+- Puffer: 60 €
+
+Die Summe: 380 € + 120 € + 40 € + 60 € = 600 €. Bei einem Geschenk für die Schwiegermutter, das 45 € statt 30 € kostet, liegst du 15 € über dem Plan für diese Person. Das ist nicht schlimm, solange du es siehst und an anderer Stelle ausgleichst. Genau dafür lohnt sich eine Ampel: grün, solange die Ausgaben im Rahmen liegen, gelb ab etwa 90 % des Betrags, rot bei Überschreitung.
+
+## Schritt 3: Geschenkeliste mit Status führen
+
+Führe für jede Person eine Zeile mit Idee, geplantem Preis, tatsächlichem Preis und Status. Vier Status reichen aus:
+
+- Idee: noch nichts gekauft
+- Bestellt: unterwegs, Lieferdatum notieren
+- Gekauft: im Haus
+- Verpackt: fertig zum Verschenken
+
+So siehst du am ersten Dezember-Wochenende auf einen Blick, wo noch etwas fehlt. Bei Onlinebestellungen zählt das Lieferdatum: Plane für Bestellungen einen Puffer ein, weil die Lieferzeiten in der Vorweihnachtszeit länger sein können.
+
+## Der Zeitplan für 2026
+
+Heiligabend fällt 2026 auf einen Donnerstag. Diese Termine helfen beim Rückwärtsplanen:
+
+- Ende Oktober: Budget festlegen, Geschenkeliste anlegen, erste Ideen sammeln
+- Mitte November: Bestellungen für Geschenke, die verschickt werden müssen oder personalisiert werden
+- Sonntag, 29. November: 1. Advent, Deko und Adventskalender fertig
+- Sonntag, 6. Dezember: Nikolaus, Stand der Geschenkeliste prüfen
+- Sonntag, 13. Dezember: 3. Advent, letzte Bestellungen aufgeben, Karten schreiben
+- Sonntag, 20. Dezember: 4. Advent, alles einkaufen, was noch fehlt, Geschenke verpacken
+- Donnerstag, 24. Dezember: Heiligabend
+
+Weihnachtsessen gehört ebenfalls in den Plan: Wer Gäste hat, schreibt die Einkaufsliste für die Feiertage schon Mitte Dezember und bestellt Fleisch oder Fisch vor.
+
+## Checkliste zum Abhaken
+
+- Gesamtbudget festgelegt, Puffer eingeplant?
+- Alle Personen mit Betrag auf der Liste?
+- Jede Zeile mit Status Idee, Bestellt, Gekauft oder Verpackt?
+- Lieferdaten notiert, Versandfristen für Pakete geprüft?
+- Essen, Deko, Karten und Verpackung im Budget?
+- Termine ab dem 1. Advent im Kalender?
+
+Hinweis: Alle Zahlen im Beispiel sind ausgedacht und keine Empfehlung. Dieser Ratgeber ist eine allgemeine Information, keine Finanzberatung. Stand: September 2026.
+
+CTA: Der Weihnachtsplaner als Excel-Vorlage auf Deutsch führt Geschenkeliste mit Status, Budget je Person und Gruppe mit Ampel, Countdown bis Heiligabend und Termine, die sich aus der Jahreszahl rechnen. Läuft in Excel, Google Sheets und LibreOffice. https://www.etsy.com/de/listing/4555283953/?utm_source=website&utm_medium=guide&utm_campaign=weihnachten-planen
