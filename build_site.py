@@ -4,7 +4,8 @@ Startseite und sitemap.xml.
 
 Ratgeber-Workflow:
   1. Artikel als Markdown-ähnliche Textdatei in ratgeber/quellen/<slug>.txt
-     (Format siehe ratgeber/quellen/BEISPIEL.txt: Kopfzeilen + Absätze).
+     (Format siehe ratgeber/quellen/BEISPIEL.txt: Kopfzeilen + Absätze;
+     interne Links als Block "LINKS: Überschrift" mit Zeilen "- Text | ziel.html").
   2. python build_site.py  ->  ratgeber/<slug>.html aus TEMPLATE + Liste auf
      index.html (zwischen den RATGEBER-Markern) + sitemap.xml.
   3. Committen und pushen — GitHub Pages liefert automatisch aus.
@@ -39,6 +40,13 @@ def artikel_bauen():
             elif block.startswith("- "):
                 li = "".join(f"<li>{html.escape(z[2:])}</li>" for z in block.splitlines())
                 absaetze.append(f"<ul>{li}</ul>")
+            elif block.startswith("LINKS:"):
+                # LINKS: <Überschrift>, darunter Zeilen "- Linktext | slug-oder-url"
+                kopfzeile, *zeilen = block.splitlines()
+                li = "".join(
+                    f'<li><a href="{html.escape(ziel.strip())}">{html.escape(text.strip())}</a></li>'
+                    for text, _, ziel in (z[2:].rpartition("|") for z in zeilen))
+                absaetze.append(f"<h2>{html.escape(kopfzeile[6:].strip())}</h2><ul>{li}</ul>")
             elif block.startswith("CTA:"):
                 text, _, url = block[4:].strip().rpartition(" ")
                 absaetze.append(f'<div class="cta">{html.escape(text)} <a href="{html.escape(url)}">Zur Vorlage →</a></div>')
