@@ -32,4 +32,7 @@ Jede Leistung bekommt eine Spalte „Halbjahr“ (1 oder 2). Ein Schalter oben i
 
 Ein Klassenschnitt und eine Notenverteilung (wie viele Einsen, Zweien, …) zeigen dir, ob eine Arbeit zu schwer war. Ein Farbleitsystem — Gelb für Eingabe, Schwarz für Formeln — verhindert, dass jemand versehentlich in eine Formelzelle tippt. Und die Datei gehört nicht in die Cloud eines Drittanbieters: Schülernoten sind personenbezogene Daten, lokal speichern und Passwort auf die Datei.
 
+LINKS: Weiterlesen
+- Halbjahresnote berechnen: Rechenbeispiel mit Rundung und Tendenz | halbjahresnote-zeugnisnote-berechnen.html
+
 CTA: Die Notenliste für Lehrkräfte hat all das fertig gebaut: bis zu 35 Kinder, 8 Klassenarbeiten, 6 mündliche Leistungen, Notenschlüssel und Rundung einstellbar, mit Beispielklasse zum Ausprobieren. https://www.etsy.com/de/listing/4558567855/
