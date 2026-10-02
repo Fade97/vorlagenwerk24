@@ -1,5 +1,5 @@
-titel: Halbjahresnote berechnen: so entsteht die Zeugnisnote aus schriftlich und mündlich
-beschreibung: Zeugnisnote und Halbjahresnote Schritt für Schritt berechnen: Noten gewichten, schriftlich und mündlich verrechnen, fehlende Noten, Rundung und Tendenz. Mit Rechenbeispiel.
+titel: Zeugnisnote berechnen: Halbjahresnote aus schriftlich und mündlich mit Gewichtung
+beschreibung: Zeugnisnote und Halbjahresnote berechnen, Schritt für Schritt für Lehrkräfte: Noten mit Gewichtung, schriftlich und mündlich verrechnen, fehlende Noten, Rundung und Tendenz. Mit Rechenbeispiel.
 stand: Oktober 2026
 
 Die Halbjahreszeugnisse kommen je nach Bundesland zwischen Ende Januar und Mitte Februar. Vorher steht in vielen Schulen die Notenkonferenz an, und bis dahin muss für jedes Kind feststehen, welche Note auf dem Zeugnis steht. Die Rechnung dahinter ist kein Geheimnis: ein gewichteter Durchschnitt, zweimal, dann eine Rundungsregel. Fehler entstehen fast immer an denselben drei Stellen: bei der Gewichtung, bei fehlenden Noten und beim Runden. Dieser Ratgeber geht die Rechnung Schritt für Schritt durch und rechnet ein Beispiel komplett aus. Er behandelt Noten von 1 bis 6; für das Punktesystem der Oberstufe gelten eigene Regeln.

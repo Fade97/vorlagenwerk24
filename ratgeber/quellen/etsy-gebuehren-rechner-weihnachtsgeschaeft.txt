@@ -1,0 +1,89 @@
+titel: Etsy-Gebühren-Rechner fürs Weihnachtsgeschäft: Rabatte, Bundles und Versand vorher durchrechnen
+beschreibung: Weihnachtsgeschäft auf Etsy planen: Rabattaktionen, Bundles, versandkostenfrei und Offsite Ads mit dem Gebühren-Rechner durchrechnen. Für Kleinunternehmer, mit Beispielen für digitale und physische Produkte.
+stand: Oktober 2026
+
+Für viele Shops mit Geschenkartikeln sind November und Dezember die stärksten Monate des Jahres. Gleichzeitig laufen Rabattaktionen, Versandkostenfrei-Angebote und Bundles. Jede dieser Aktionen verändert, was nach den Gebühren übrig bleibt, und zwar oft stärker, als man denkt. Wer erst im Januar in die Abrechnung schaut, merkt zu spät, dass die Aktion zwar Umsatz gebracht hat, aber kaum Gewinn. Dieser Ratgeber zeigt, wie du deine Weihnachtsaktionen vorher mit einem Etsy-Gebühren-Rechner durchrechnest. Die Beispiele sind für Kleinunternehmer nach § 19 UStG gerechnet, einmal mit einem digitalen und einmal mit einem physischen Produkt.
+
+## Schritt 1: Die Gebühren als Grundlage
+
+Jede Rechnung in diesem Ratgeber nutzt dieselben Sätze (Stand Oktober 2026, bei Änderungen in der Etsy-Gebührenordnung prüfen):
+
+- Transaktionsgebühr: 6,5 % auf Artikelpreis plus Versand
+- Zahlungsabwicklung: 4 % plus 0,30 € pro Bestellung
+- Einstellgebühr: 0,20 US-Dollar pro verkauftem Stück, hier mit 0,92 € je Dollar umgerechnet
+- Offsite Ads: 15 % auf Bestellungen, die einer externen Anzeige zugeordnet werden
+- 19 % Umsatzsteuer auf alle Gebühren, die du als Kleinunternehmer nicht als Vorsteuer zurückholst
+
+Wie jeder dieser Posten entsteht und wie du einen einzelnen Verkauf komplett ausrechnest, steht ausführlich im Ratgeber „Etsy-Gebühren berechnen“ (Link unten). Hier geht es um die Frage: Was passiert mit dem Ergebnis, wenn du für Weihnachten an Preis, Versand oder Paketen drehst?
+
+## Schritt 2: Den Normalfall als Basis rechnen
+
+Beispiel: Eine digitale Vorlage für 5,90 €, kein Versand.
+
+- Transaktionsgebühr: 6,5 % von 5,90 € = 0,38 €
+- Zahlungsabwicklung: 4 % von 5,90 € + 0,30 € = 0,54 €
+- Einstellgebühr: 0,20 $ × 0,92 = 0,18 €
+- Umsatzsteuer: 19 % von 1,10 € = 0,21 €
+- Gebühren gesamt: 1,31 €, also 22,2 % vom Preis
+
+Übrig bleiben 4,59 €. Fällt dir der hohe Prozentsatz auf? Bei kleinen Preisen schlagen die festen Beträge (0,30 € und die Einstellgebühr) stark durch. Das wird bei Rabatten wichtig.
+
+## Schritt 3: Rabattaktion vorher durchrechnen
+
+Für ein Weihnachts-Wochenende planst du 30 % Rabatt. Der Preis sinkt auf 4,13 €. Die prozentualen Gebühren sinken mit, die festen nicht:
+
+- Transaktionsgebühr: 0,27 €
+- Zahlungsabwicklung: 0,47 €
+- Einstellgebühr: 0,18 €
+- Umsatzsteuer: 0,17 €
+- Gebühren gesamt: 1,09 €, jetzt 26,4 % vom Preis
+
+Übrig bleiben 3,04 €. Der Kunde spart 30 %, dein Rest fällt um 34 %. Damit sich die Aktion lohnt, musst du etwa die Hälfte mehr Stück verkaufen als ohne Rabatt (4,59 ÷ 3,04 = 1,51). Rechne diese Schwelle vor der Aktion aus und vergleiche sie hinterher mit den echten Verkäufen.
+
+## Schritt 4: Bundle statt Rabatt prüfen
+
+Eine Alternative zum Rabatt ist ein Paket aus drei Vorlagen als eigenes Angebot, zum Beispiel für 12,90 € statt einzeln 17,70 €. Für den Kunden ist das ähnlich günstig wie drei Vorlagen mit 30 % Rabatt (zusammen 12,39 €). Für dich ist der Unterschied deutlich:
+
+- Bundle für 12,90 €: Gebühren 2,19 €, übrig bleiben 10,71 €
+- drei Einzelverkäufe mit 30 % Rabatt: Gebühren 3 × 1,09 € = 3,27 €, übrig bleiben 9,12 €
+
+Das Bundle bringt 1,59 € mehr, weil die festen Beträge nur einmal anfallen. Kauft jemand drei einzelne Vorlagen in einer Bestellung, fällt die 0,30 €-Gebühr ebenfalls nur einmal an, die Einstellgebühr aber dreimal. Ob ein Bundle zu deinem Shop passt, hängt davon ab, ob deine Produkte sinnvoll zusammengehören, zum Beispiel ein Weihnachtsplaner mit Geschenkeliste und Budget.
+
+## Schritt 5: Versandkostenfrei richtig einordnen
+
+Bei physischen Produkten ist „versandkostenfrei“ im Weihnachtsgeschäft beliebt. Für die Gebühren macht es keinen Unterschied, wie du den Betrag aufteilst: Transaktions- und Zahlungsgebühr gehen auf Artikelpreis plus Versand.
+
+Beispiel: Kerze für 24,90 € plus 4,90 € Versand oder versandkostenfrei für 29,80 €. In beiden Fällen ist der Bestellwert 29,80 €, die Gebühren liegen bei 4,30 €. Teuer wird versandkostenfrei nur, wenn du den Versand einfach streichst und den Artikelpreis nicht anhebst. Dann bezahlst du die 4,90 € Porto selbst. Die Gebühren sinken dabei nur um rund 0,60 €, unterm Strich fehlen dir also etwa 4,30 € pro Bestellung. Rechne also vorher: Neuer Preis = alter Artikelpreis + Porto.
+
+## Schritt 6: Offsite Ads im Weihnachtsgeschäft einplanen
+
+Wenn du Offsite Ads aktiv hast, kann ein Teil deiner Weihnachtsbestellungen mit 15 % zusätzlich belastet werden. Bei der Vorlage für 5,90 € sieht das so aus:
+
+- 15 % Offsite-Gebühr: 0,89 €
+- Gebühren gesamt mit Umsatzsteuer: 2,37 €, also 40 % vom Preis
+- übrig bleiben: 3,53 € statt 4,59 €
+
+Kommt dazu noch ein Rabatt, wird es eng. Prüfe in deinen Shop-Einstellungen, ob Offsite Ads bei dir aktiv sind und ob du sie abschalten darfst. Bei 10.000 US-Dollar Umsatz in 365 Tagen werden sie Pflicht, dann mit 12 %. Rechne für Q4 am besten zwei Werte: mit und ohne Offsite Ads.
+
+## Schritt 7: Umsatz und Kleinunternehmergrenze im Blick behalten
+
+Ein gutes Weihnachtsgeschäft kann deinen Jahresumsatz deutlich nach oben schieben. Als Kleinunternehmer zählt für die Umsatzgrenzen dein gesamter Umsatz, nicht dein Gewinn. Nach der seit 2025 geltenden Regel darf der Umsatz im Vorjahr 25.000 € nicht überschritten haben und im laufenden Jahr 100.000 € nicht überschreiten. Für die meisten kleinen Etsy-Shops ist das weit weg. Wer aber mehrere Kanäle hat oder nahe an der Vorjahresgrenze liegt, sollte seinen Umsatz monatlich zusammenzählen. Im Zweifel klärst du das mit deiner Steuerberatung oder dem Finanzamt.
+
+## Checkliste vor dem Weihnachtsgeschäft
+
+- Aktuelle Gebührensätze aus deiner letzten Monatsabrechnung übernommen?
+- Für jede Rabattaktion ausgerechnet, wie viel mehr Stück du verkaufen musst?
+- Bundle als Alternative zum Rabatt geprüft?
+- Bei versandkostenfrei das Porto in den Artikelpreis eingerechnet?
+- Rechnung mit und ohne Offsite Ads gemacht?
+- Jahresumsatz bis Oktober zusammengezählt und Kleinunternehmergrenze geprüft?
+- Nach der Aktion: echte Verkäufe und echte Gebühren mit dem Plan verglichen?
+
+Hinweis: Dieser Ratgeber ist keine Steuer- oder Rechtsberatung. Gebührensätze und Steuerregeln können sich ändern, prüfe sie vor deiner Planung. Die Zahlen im Beispiel sind gerundet und ausgedacht, deine Abrechnung kann um ein paar Cent abweichen.
+
+LINKS: Weiterlesen
+- Etsy-Gebühren berechnen: was bei einem Verkauf in Deutschland wirklich übrig bleibt | etsy-gebuehren-berechnen.html
+- Handmade-Preise kalkulieren: die Formel für deinen Verkaufspreis | handmade-preise-kalkulieren.html
+- Rechnung schreiben als Kleinunternehmer: Pflichtangaben und Muster (§ 19 UStG) | rechnung-schreiben-kleinunternehmer.html
+
+CTA: Das Etsy Gewinn-Cockpit rechnet jede Bestellung automatisch durch: alle Gebührenarten, Umsatzsteuer für Kleinunternehmer, Offsite Ads, Rabatte und Gutscheine, dazu Gewinn pro Produkt und eine Monatsübersicht mit Diagrammen. Gebührensätze stehen an einer Stelle und lassen sich mit einer Zelle anpassen. Für Excel und LibreOffice, mit ausgefülltem Beispiel-Shop. https://www.etsy.com/de/listing/4538759214/?utm_source=website&utm_medium=guide&utm_campaign=etsy-weihnachtsgeschaeft

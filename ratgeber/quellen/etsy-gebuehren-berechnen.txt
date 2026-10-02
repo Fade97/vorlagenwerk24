@@ -51,4 +51,7 @@ Für Kleinunternehmer ohne Offsite Ads sind die prozentualen Gebühren (6,5 % + 
 
 Erstattest du über den Shop-Manager, schreibt Etsy Transaktions- und Zahlungsgebühr anteilig gut, die Einstellgebühr nur bei Stornierung, die Offsite-Gebühr gar nicht. Etsy rundet die Umsatzsteuer pro Gebührenzeile, deshalb weicht deine eigene Rechnung um ein paar Cent ab — das ist normal. Und ändert Etsy einen Satz, sollte er an genau einer Stelle stehen, nicht in zwanzig Formeln.
 
+LINKS: Weiterlesen
+- Etsy-Gebühren-Rechner fürs Weihnachtsgeschäft: Rabatte, Bundles und Versand vorher durchrechnen | etsy-gebuehren-rechner-weihnachtsgeschaeft.html
+
 CTA: Das Etsy Gewinn-Cockpit rechnet all diese Gebühren pro Bestellung automatisch aus — mit Umsatzsteuer für Kleinunternehmer, Offsite Ads, Rabatten und Monatsübersicht. https://www.etsy.com/de/listing/4538759214/
