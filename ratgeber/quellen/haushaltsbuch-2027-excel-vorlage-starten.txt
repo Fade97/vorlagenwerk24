@@ -1,0 +1,124 @@
+titel: Haushaltsbuch 2027 starten: Excel-Vorlage einrichten in 7 Schritten
+beschreibung: Haushaltsbuch führen für Anfänger: So richtest du deine Haushaltsbuch-Excel-Vorlage für 2027 ein, mit Kassensturz, Kategorien, Jahreskosten pro Monat und Budget. Mit Rechenbeispiel und Checkliste.
+stand: Oktober 2026
+
+Der 1. Januar ist der beste Tag, um ein Haushaltsbuch zu beginnen: Das Jahr ist leer, jede Buchung zählt ab dem ersten Tag, und am Jahresende hast du einen vollständigen Vergleich. Damit das klappt, solltest du deine Vorlage nicht erst an Neujahr einrichten, sondern schon im Oktober oder November. Dieser Ratgeber zeigt dir Schritt für Schritt, wie du dein Haushaltsbuch für 2027 vorbereitest, egal ob in Excel, Google Sheets oder LibreOffice. Am Ende steht ein durchgerechnetes Beispiel für einen Monat.
+
+## Schritt 1: Kassensturz mit drei Monatsauszügen
+
+Bevor du eine einzige Zelle ausfüllst, nimm dir die Kontoauszüge der letzten drei Monate. Markiere darin alles, was regelmäßig abgeht: Miete, Strom, Handy, Internet, Versicherungen, Kredite, Abos. Drei Monate reichen, weil die meisten festen Kosten monatlich laufen und du so auch vierteljährliche Zahlungen siehst.
+
+Schreib dazu zwei Zahlen auf: dein durchschnittliches Nettoeinkommen pro Monat und deinen Kontostand am Stichtag. Der Kontostand ist dein Startpunkt, an dem du am Jahresende misst, ob dein Plan aufgegangen ist.
+
+## Schritt 2: Kategorien festlegen, aber nicht zu viele
+
+Ein Haushaltsbuch mit 40 Kategorien führt niemand bis Dezember. Für die meisten Haushalte reichen 15 bis 25 Kategorien. Eine gute Probe: Würdest du bei dieser Kategorie etwas anders machen, wenn sie zu hoch ist? Wenn nein, fasse sie mit einer anderen zusammen.
+
+- Wohnen: Miete, Nebenkosten, Strom, Internet
+- Lebensmittel und Drogerie
+- Mobilität: Auto, Tickets, Tanken
+- Versicherungen und Verträge
+- Freizeit, Restaurant, Abos
+- Kleidung, Geschenke, Ersatzanschaffungen
+- Sparen und Tilgen
+
+Wenn du deine Kategorien in Bedürfnisse, Wünsche und Sparen einteilen willst, findest du die Regel dazu im Ratgeber zur 50/30/20-Regel (Link unten). Hier geht es um die Einrichtung, nicht um die Auswertung.
+
+## Schritt 3: Jahreskosten auf Monate verteilen
+
+Hier scheitern die meisten Haushaltsbücher im ersten Jahr. Im Januar kommt die Kfz-Versicherung, im März ein Jahresbeitrag, im Dezember die Geschenke. Diese Monate sehen dann aus, als wärst du pleite, und die anderen, als hättest du Geld übrig. Beides stimmt nicht.
+
+Die Lösung: Jede Zahlung, die einmal oder ein paarmal im Jahr kommt, bekommt ein Monatsbudget von einem Zwölftel. Beispiel:
+
+- Kfz-Versicherung: 540 € im Jahr = 45 € pro Monat
+- Haftpflicht und Hausrat: 180 € im Jahr = 15 € pro Monat
+- Vereins- und Mitgliedsbeiträge: 120 € im Jahr = 10 € pro Monat
+- Geschenke (Geburtstage und Weihnachten): 600 € im Jahr = 50 € pro Monat
+- Ersatzanschaffungen und Reparaturen: 360 € im Jahr = 30 € pro Monat
+
+Zusammen sind das 1.800 € im Jahr oder 150 € pro Monat. Diesen Betrag legst du jeden Monat zur Seite, am besten auf ein eigenes Tagesgeldkonto oder Unterkonto. Kommt die Rechnung, zahlst du sie von dort. Im Haushaltsbuch vergleichst du dann das Jahresbudget mit dem, was wirklich ausgegeben wurde.
+
+Ein Punkt für den Start: Ist eine Jahreszahlung schon im Januar 2027 fällig, hast du dafür noch keine Monate angespart. Leg diesen Betrag möglichst noch im Herbst 2026 zurück.
+
+## Schritt 4: Das Monatsbudget aufstellen (Rechenbeispiel)
+
+Jetzt kommen alle Zahlen zusammen. Beispiel: ein Haushalt mit 3.200 € netto im Monat.
+
+Feste Kosten pro Monat:
+
+- Miete warm: 1.050 €
+- Strom: 85 €
+- Handy und Internet: 60 €
+- monatliche Versicherungen: 45 €
+- Mobilität: 120 €
+- Summe feste Kosten: 1.360 €
+
+Rücklage für Jahreskosten aus Schritt 3: 150 €
+
+Veränderliche Kosten pro Monat (Schätzung aus dem Kassensturz):
+
+- Lebensmittel: 650 €
+- Drogerie: 60 €
+- Freizeit und Restaurant: 180 €
+- Kleidung: 90 €
+- Sonstiges: 100 €
+- Summe veränderliche Kosten: 1.080 €
+
+Alles zusammen: 1.360 € + 150 € + 1.080 € = 2.590 €. Frei zum Sparen bleiben 3.200 € − 2.590 € = 610 €, das sind 19,1 % vom Nettoeinkommen.
+
+Wichtig: Das ist der Plan. Ob er stimmt, zeigt erst der Vergleich mit den echten Buchungen nach zwei, drei Monaten. Rechne die veränderlichen Kosten lieber etwas zu hoch als zu niedrig.
+
+## Schritt 5: Eine Regel für das Eintragen
+
+Lege vor dem 1. Januar fest, wie du buchst, und bleib das ganze Jahr dabei:
+
+- Wann trägst du ein? Zwei feste Termine pro Woche reichen, zum Beispiel Sonntag und Mittwoch.
+- Was ist eine Buchung? Ein Einkauf im Supermarkt ist eine Buchung, auch wenn Lebensmittel und Drogerie auf dem Bon stehen. Teile nur, wenn der Betrag groß ist.
+- Wie trägst du Beträge ein? Entweder alles positiv und eine eigene Spalte für Einnahme oder Ausgabe, oder Ausgaben mit Minus. Mischen führt zu falschen Summen.
+- Was ist mit Bargeld? Abhebungen nicht als Ausgabe buchen, sondern erst das, wofür du das Bargeld ausgibst. Sonst zählst du doppelt.
+
+## Schritt 6: Einen Probelauf im Dezember machen
+
+Trag die Buchungen von Dezember 2026 schon einmal testweise ein. So merkst du vor dem Start, ob Kategorien fehlen, ob die Summen stimmen und wie lange das Eintragen dauert. Danach löschst du die Testbuchungen, und am 1. Januar beginnt das echte Jahr.
+
+## Schritt 7: Sparziele für 2027 festlegen
+
+Die 610 € aus dem Beispiel sind erst einmal nur ein Rest. Damit sie wirklich gespart werden, bekommen sie Ziele. Die Formel für die nötige Monatsrate:
+
+Monatsrate = (Zielbetrag − bereits gespart) ÷ Monate bis zum Ziel
+
+Beispiel: Urlaub im Juli 2027 für 1.800 €, gespart sind schon 400 €. Bis Ende Juni bleiben sechs Monatsraten: (1.800 € − 400 €) ÷ 6 = 233,33 € pro Monat. Von den 610 € bleiben dann noch 376,67 € für den Notgroschen oder weitere Ziele.
+
+## Eine Excel-Vorlage oder eine kostenlose Vorlage?
+
+Kostenlose Haushaltsbuch-Vorlagen gibt es viele, und für den Anfang reichen sie oft. Bevor du dich festlegst, prüfe diese Punkte:
+
+- Kannst du die Kategorien selbst umbenennen und neue anlegen?
+- Gibt es ein Budget je Kategorie mit Vergleich zu den echten Ausgaben?
+- Siehst du jeden Monat und das ganze Jahr auf einen Blick?
+- Funktioniert die Datei ohne Makros und ohne Anmeldung, auch in Google Sheets oder LibreOffice?
+- Kannst du sie für 2028 wiederverwenden, ohne alles neu einzurichten?
+
+Wenn du schon ein Haushaltsbuch für 2026 hast, musst du für 2027 nicht neu anfangen: Datei kopieren, Jahr ändern, alte Buchungen löschen. Kategorien und Budgets bleiben stehen, und du passt nur an, was sich geändert hat, zum Beispiel eine neue Miete oder einen neuen Stromtarif.
+
+CTA: Das VorlagenWerk24 Haushaltsbuch ist für genau diesen Start gebaut: 25 Kategorien zum Umbenennen, Budget je Kategorie mit Ampel, Monatsübersicht, Jahresübersicht mit Sparquote, 50/30/20-Check und drei Diagramme. Du füllst nur die gelben Felder aus. Für Excel, Google Sheets und LibreOffice, ohne Makros, mit ausgefülltem Beispieljahr. Für 2027 kopierst du die Datei einfach und änderst das Jahr. https://www.etsy.com/de/listing/4553166111/?utm_source=website&utm_medium=guide&utm_campaign=haushaltsbuch-2027
+
+CTA: Für Schritt 7: Der Sparplan rechnet für bis zu 10 Sparziele die nötige Monatsrate aus, zeigt je Ziel „auf Kurs“ oder „Rate zu klein“ und hat eine 52-Wochen-Challenge eingebaut. https://www.etsy.com/de/listing/4565916670/?utm_source=website&utm_medium=guide&utm_campaign=haushaltsbuch-2027-sparplan
+
+## Checkliste für den Start am 1. Januar
+
+- Kontoauszüge der letzten drei Monate durchgesehen?
+- Nettoeinkommen und Kontostand am Stichtag notiert?
+- 15 bis 25 Kategorien festgelegt?
+- Alle Jahreszahlungen gesammelt und durch 12 geteilt?
+- Rücklage für Januar-Zahlungen schon zur Seite gelegt?
+- Monatsbudget aufgestellt und den freien Betrag ausgerechnet?
+- Regel für das Eintragen und zwei feste Termine pro Woche festgelegt?
+- Probelauf mit den Dezember-Buchungen gemacht und wieder gelöscht?
+- Mindestens ein Sparziel mit Monatsrate festgelegt?
+
+Hinweis: Dieser Ratgeber ist keine Finanz-, Steuer- oder Schuldnerberatung. Die Zahlen im Beispiel sind ausgedacht und gerundet. Wenn du Schulden hast, die du nicht mehr bezahlen kannst, wende dich an eine anerkannte Schuldnerberatung, zum Beispiel bei der Verbraucherzentrale.
+
+LINKS: Weiterlesen
+- Haushaltsbuch führen mit der 50/30/20-Regel | haushaltsbuch-50-30-20-regel.html
+- Weihnachten planen: Budget, Geschenkeliste und Zeitplan für 2026 | weihnachten-planen-budget-geschenkeliste.html
